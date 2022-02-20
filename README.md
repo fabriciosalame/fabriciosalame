@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho como gestor de negócios e TI
 - 🫐 Vendo Açaí
-- 🌱 Estudando Angular e Spring
+- 🌱 Estudando Angular e Spring ...
 - ♾️ Filho, imagem e semelhança de Deus.
 - 💬 Deus já criou tudo que existe no seu sonho. Comece!
 
