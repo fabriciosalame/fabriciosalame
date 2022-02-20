@@ -2,9 +2,9 @@
 
 - 🔭 Trabalho como gestor de negócios e TI
 - 🫐 Vendo Açaí
-- 🌱 Estudando Angular e Spring ...
-- ♾️ Filho, imagem e semelhança de Deus.
-- 💬 Deus já criou tudo que existe no seu sonho. Comece!
+- 🌱 Estou estudando Angular e Spring ...
+- ♾️ Sou filho, imagem e semelhança de Deus.
+- 💬 Nosso Pai já criou tudo que existe em seu sonho. Comece!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabriciosalame)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fabriciosalame)
